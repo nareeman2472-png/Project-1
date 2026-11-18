@@ -1,0 +1,8 @@
+work/*
+!work/.gitkeep
+output/*
+!output/.gitkeep
+.env
+*.key
+*.pem
+.DS_Store
